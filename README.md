@@ -6,8 +6,8 @@
 ## Description
 - This project is an interactive Sales Performance Dashboard built in Microsoft Excel. It is designed to help stakeholders analyze and monitor sales trends, performance metrics, and regional distributions in a visually engaging and user-friendly way.
 
-##  Project Features ## Dashboard Components
-📈 Monthly Sales Trend – Line chart showing month-wise sales variation.
+##  Project Features 
+- Monthly Sales Trend – Line chart showing month-wise sales variation.
 - Sales by Product Category – Pie chart highlighting category contribution to total revenue.
 - Products by Sales (Customer-wise) – Vertical bar chart showing revenue per customer.
 - Interactive Sales by Salesperson & Region – Horizontal bar chart broken down by salesperson.
