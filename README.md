@@ -49,3 +49,15 @@
 - What is the average order quantity per product?
 
 - ![Screenshot 2025-05-13 193100](https://github.com/user-attachments/assets/c7c6df9e-1909-4df0-a7bd-317c73dcc259)
+Key Insights
+Top Performers Identified: Salespersons like Andrew James and Laura Larsen generated the most revenue
+
+Regional Trends: States like California and Texas showed the highest revenue, indicating strong demand
+
+Product Demand: Product 1 consistently led in revenue
+
+Customer Loyalty: A few key customers placed repeated high-value orders
+
+Sales Trends: Notable upward/downward monthly patterns were identified, useful for forecasting
+
+Manager Performance: Teams under managers like Jeff and Steve showed varied performance, suggesting areas for coaching or recognition
