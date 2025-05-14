@@ -2,7 +2,9 @@
 
 ## Project Aim
 - To build an interactive Excel dashboard that visually summarizes and analyzes company sales data, enabling quick insights into regional, product, and salesperson performance to support data-driven decision-making.
-  
+
+## Dataset Used
+
 ## Description
 - This project is an interactive Sales Performance Dashboard built in Microsoft Excel. It is designed to help stakeholders analyze and monitor sales trends, performance metrics, and regional distributions in a visually engaging and user-friendly way.
 
